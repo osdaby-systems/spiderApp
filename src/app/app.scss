@@ -14,3 +14,20 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.fondo{
+    background-color: #181C20;
+} 
+.black-fondo{
+    background-color: #000;
+    color:#ddd;
+}
+.card-principal{
+    width: 100%;
+    height: auto;
+    margin-top:0px;
+    margin-left:0px;
+    box-shadow: 0px 0px 8px 5px #000, 0px 0px 3px 2px #ddd;
+ }
+.sombra-fina-bn{
+    box-shadow: 0px 0px 8px 5px #000, 0px 0px 3px 2px #ddd;
+ }
